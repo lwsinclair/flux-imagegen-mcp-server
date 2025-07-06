@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/falahgs-flux-imagegen-mcp-server-badge.png)](https://mseep.ai/app/falahgs-flux-imagegen-mcp-server)
+
 # Flux ImageGen MCP Server
 
 A specialized Model Context Protocol (MCP) server for image generation and manipulation, powered by Pollinations AI.
